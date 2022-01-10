@@ -8,7 +8,7 @@ to the server and then the server responds with the calculated values back to th
 
 # Client-side setup instructions
 Step 1: Open the calcConfig.txt file contained in the PropertyManagementClient folder 
-and edit it as desired. It should only have the ip and port number.The ip should point to 
+and edit it as desired. It should only have the ip and port number.The IP should point to 
 the server ip and the port should match that of the server as displayed when https://github.com/NicolaasVJ/Property-Management-Server is run.
 
 Step 2: Run the PropertManagement_KKMND.jar file to start the program.
